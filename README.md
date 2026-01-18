@@ -1,16 +1,153 @@
-## Hi there 👋
-
 <!--
-**qublai/qublai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Profile README for: Qublai Khan Ali Mirza
+Save this as README.md in your GitHub profile repo: github.com/qublai/qublai
 -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Senior+Security+Engineer;Threat+Intelligence+%26+Detection+Engineering;Cloud+%26+Application+Security;Security+Research+%26+Machine+Learning" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Hi, I'm Qublai 👋</h1>
+
+<p align="center">
+  Senior Security Engineer · Threat Intelligence & Detection · Cloud & Application Security · Security Researcher (PhD, Network Security & ML)
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/qublaikhan">
+    <img src="https://img.shields.io/badge/LinkedIn-Qublai%20Khan%20Ali%20Mirza-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=WvGmiNsAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Research-Google%20Scholar-0b3d91?style=flat&logo=googlescholar" />
+  </a>
+  <img src="https://img.shields.io/badge/Certification-CISSP-2b7a78?style=flat" />
+</p>
+
+---
+
+## 🧭 About Me
+
+I’m a security engineer and researcher with **18+ years** of experience across:
+
+- 🔍 **Threat intelligence & detection engineering** for large-scale, internet-facing systems  
+- 🛡️ **Cloud & application security** (AWS, Azure, GCP, web & API workloads)  
+- 🚨 **Abuse, fraud, and adversarial traffic** detection (bots, automation, misuse of platforms)  
+- 📊 **Security data science & ML**, including a **PhD in Network Security & Machine Learning**  
+- 🧪 **Security architecture & AppSec**: secure SDLC, SCA/SAST concepts, secure design reviews  
+
+I like turning **adversary behaviour, logs, and telemetry** into **actionable detections, resilient controls, and clear narratives** that engineers and stakeholders can actually use.
+
+---
+
+## 🔐 Security Focus Areas
+
+### Threat Intelligence & Detection
+
+- Tracking **threat clusters / campaigns** targeting cloud and internet-scale services  
+- Intelligence-driven **hunting** with large volumes of HTTP/S, app, and cloud logs  
+- Using **MITRE ATT&CK–style thinking** to map TTPs, find coverage gaps, and prioritise countermeasures  
+- Close collaboration with **incident response** teams to enrich investigations with timely intel  
+
+### Cloud & Application Security
+
+- Securing **distributed, multi-tenant services** on AWS, Azure, and GCP  
+- Designing and reviewing **secure architectures** for web apps and APIs  
+- Embedding security into **CI/CD** (automated checks, policies, guardrails)  
+- Experience with:
+  - AppSec concepts (OWASP Top 10, common CWEs)  
+  - SCA/SAST workflows and secure SDLC patterns  
+  - Identity & access (SSO, OAuth/OIDC, directory integrations)
+
+### Research & Data
+
+- **Network security & ML**: anomaly detection, behavioural models, adversarial behaviour  
+- Building **Python-based tooling** for:
+  - Log and traffic processing  
+  - Detection pipelines and experiments  
+  - Threat cluster tracking and enrichment  
+- Comfortable working with **data at scale** and turning it into detection logic and strategy
+
+---
+
+## 🛠️ Tech & Tools
+
+**Languages & Scripting**
+
+- Python · Bash · Java · JavaScript  
+- SQL-style querying for analytics, hunting & reporting
+
+**Security & Detection Concepts**
+
+- Threat intel, cluster & campaign tracking  
+- Detection engineering (rules, queries, heuristics, YARA-style / signature logic)  
+- Log analysis (HTTP/S, application logs, cloud telemetry)  
+- Abuse / fraud / bot detection for web-scale systems  
+
+**Cloud & Platforms**
+
+- AWS · Azure · GCP  
+- Docker & container-based analysis environments  
+- CI/CD: integrating security checks & detection logic into pipelines  
+
+---
+
+## 📚 Research & Publications
+
+I’ve published peer-reviewed work in **network security and machine learning**, including:
+
+- Detecting anomalous / malicious network behaviour  
+- Applying ML techniques to improve security visibility and detection  
+
+🔗 **Full list of publications:**  
+**[Google Scholar – Qublai Khan Ali Mirza](https://scholar.google.com/citations?user=WvGmiNsAAAAJ&hl=en)**
+
+---
+
+## 📦 Selected Areas I’m Exploring on GitHub
+
+> Note: A lot of my day-job work is internal, so this GitHub focuses on **tools, experiments, and learning projects** that mirror my professional interests.
+
+- 🐍 Python tooling for:
+  - log parsing and enrichment  
+  - small detection / hunting helpers  
+  - security research experiments  
+- ☁️ Cloud and security automations (where possible, vendor-neutral patterns)  
+- 🧪 ML / data examples related to security problems  
+
+As I open-source more, you’ll see repos around **threat hunting utilities, detection logic helpers, and small research prototypes**.
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qublai&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false" alt="Qublai's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qublai" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qublai&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 How I Work
+
+- I like **bridging worlds**: engineers, incident responders, data scientists, and security leadership  
+- I’m comfortable owning both **short-term investigations** and **longer-term strategic projects**  
+- I care about:
+  - Clear, honest communication  
+  - Reproducible tooling and automation instead of one-off analysis  
+  - Sharing knowledge via training, workshops, and documentation  
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: [Qublai Khan Ali Mirza](https://www.linkedin.com/in/qublaikhan)  
+- 📚 Research: [Google Scholar Profile](https://scholar.google.com/citations?user=WvGmiNsAAAAJ&hl=en)  
+
+If you’re working on **threat intel, detection, cloud security, or security+ML**, I’m always happy to connect, compare notes, or collaborate on interesting projects.
