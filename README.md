@@ -4,7 +4,7 @@ Save this as README.md in your GitHub profile repo: github.com/qublai/qublai
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Senior+Security+Engineer;Threat+Intelligence+%26+Detection+Engineering;Cloud+%26+Application+Security;Security+Research+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Senior+Security+Engineer;Threat+Intelligence+%26+Detection+Engineering;Honeypots+%26+Deception+Engineering;Cloud+%26+Application+Security;Security+Research+%26+Machine+Learning" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Qublai 👋</h1>
@@ -30,6 +30,7 @@ Save this as README.md in your GitHub profile repo: github.com/qublai/qublai
 I’m a security engineer and researcher with **18+ years** of experience across:
 
 - 🔍 **Threat intelligence & detection engineering** for large-scale, internet-facing systems  
+- 🍯 **Honeypots & deception engineering** for observing attacker behaviour and collecting threat artefacts
 - 🛡️ **Cloud & application security** (AWS, Azure, GCP, web & API workloads)  
 - 🚨 **Abuse, fraud, and adversarial traffic** detection (bots, automation, misuse of platforms)  
 - 📊 **Security data science & ML**, including a **PhD in Network Security & Machine Learning**  
@@ -47,6 +48,15 @@ I like turning **adversary behaviour, logs, and telemetry** into **actionable de
 - Intelligence-driven **hunting** with large volumes of HTTP/S, app, and cloud logs  
 - Using **MITRE ATT&CK–style thinking** to map TTPs, find coverage gaps, and prioritise countermeasures  
 - Close collaboration with **incident response** teams to enrich investigations with timely intel  
+
+### Honeypots, Deception & Threat Intelligence
+
+- Designing and operating **low-, medium-, and high-interaction honeypots**, including service-specific decoys for web applications, APIs, SSH, Telnet, exposed infrastructure, and malware collection
+- Retrieving and preserving attacker artefacts such as **payloads, binaries, scripts, commands, URLs, domains, IP addresses, file hashes, user agents, credential attempts, and protocol/session telemetry**
+- Normalising, deduplicating, enriching, and correlating honeypot observations with internal and external intelligence sources to identify **campaigns, infrastructure reuse, behavioural patterns, and emerging attack vectors**
+- Converting observations into actionable **indicators of compromise (IoCs)**, TTPs, threat clusters, detection hypotheses, and MITRE ATT&CK mappings
+- Using honeypot intelligence to improve **SIEM detections, threat-hunting queries, YARA and network signatures, blocklists, IDS/IPS controls, WAF rules, cloud protections, and incident-response playbooks**
+- Measuring the value and reliability of collected intelligence through provenance, confidence, freshness, false-positive analysis, and feedback from defensive controls
 
 ### Cloud & Application Security
 
@@ -82,6 +92,7 @@ I like turning **adversary behaviour, logs, and telemetry** into **actionable de
 - Detection engineering (rules, queries, heuristics, YARA-style / signature logic)  
 - Log analysis (HTTP/S, application logs, cloud telemetry)  
 - Abuse / fraud / bot detection for web-scale systems  
+- Honeypots, deception systems, malware collection, artefact analysis, IoC development, and ATT&CK mapping
 
 **Cloud & Platforms**
 
@@ -113,8 +124,9 @@ I’ve published peer-reviewed work in **network security and machine learning**
   - security research experiments  
 - ☁️ Cloud and security automations (where possible, vendor-neutral patterns)  
 - 🧪 ML / data examples related to security problems  
+- 🍯 Honeypot telemetry pipelines, artefact enrichment, IoC generation, attacker-behaviour analysis, and detection content
 
-As I open-source more, you’ll see repos around **threat hunting utilities, detection logic helpers, and small research prototypes**.
+As I open-source more, you’ll see repos around **threat hunting utilities, detection logic helpers, honeypot intelligence pipelines, and small research prototypes**.
 
 ---
 
@@ -150,4 +162,4 @@ As I open-source more, you’ll see repos around **threat hunting utilities, det
 - 💼 LinkedIn: [Qublai Khan Ali Mirza](https://www.linkedin.com/in/qublaikhan)  
 - 📚 Research: [Google Scholar Profile](https://scholar.google.com/citations?user=WvGmiNsAAAAJ&hl=en)  
 
-If you’re working on **threat intel, detection, cloud security, or security+ML**, I’m always happy to connect, compare notes, or collaborate on interesting projects.
+If you’re working on **threat intelligence, honeypots, deception engineering, detection, cloud security, or security+ML**, I’m always happy to connect, compare notes, or collaborate on interesting projects.
